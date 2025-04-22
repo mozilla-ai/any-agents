@@ -17,3 +17,5 @@ import any_agent
 ```
 
 Visit the actual package at: https://github.com/mozilla-ai/any-agent
+
+View this redirect package on pypi: https://pypi.org/project/any-agents/
