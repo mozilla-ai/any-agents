@@ -8,12 +8,7 @@ setup(
     description="Redirect package for any-agent - you probably meant to install 'any-agent' instead",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/any-agent",
-    author="Your Name",
-    author_email="your.email@example.com",
-    classifiers=[
-        "Development Status :: 4 - Beta",
-        "Intended Audience :: Developers",
-        "Programming Language :: Python :: 3",
-    ],
+    url="https://github.com/mozilla-ai/any-agents",
+    author="Nathan Brake",
+    author_email="nathan@mozilla.ai",
 )
