@@ -4,6 +4,8 @@
 
 You probably meant to install `any-agent` (without the 's').
 
+Visit the real project at: https://github.com/mozilla-ai/any-agent
+
 This package exists only to redirect users to the correct package and will automatically install the proper `any-agent` package as a dependency.
 
 ## Correct Usage
@@ -15,7 +17,5 @@ import any_agents
 # CORRECT - Do this instead
 import any_agent
 ```
-
-Visit the actual package at: https://github.com/mozilla-ai/any-agent
 
 View this redirect package on pypi: https://pypi.org/project/any-agents/
